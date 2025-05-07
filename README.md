@@ -13,7 +13,7 @@ Navigate to any Windows environment installed on the system or installed inside 
 ### Step 2:
 
 Write the Windows commands / batch file
-Save each script in a file with a .bat extension.
+Save each script in a file with a .bat extension. 
 Ensure you have the necessary permissions to perform the operations.
 Adapt paths as needed based on your system configuration.
 ### Step 3:
